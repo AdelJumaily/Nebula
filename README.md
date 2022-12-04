@@ -1,2 +1,2 @@
 # Nebula
-SmartGlasses with android operating system
+SmartGlasses the future of computing
